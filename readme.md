@@ -1,9 +1,9 @@
 Repo steps
 
 ### From terminal  
-git clone
-cd SimpleAppPlusLib
 ```
+git clone https://github.com/7sharp9/SimpleAppPlusLib.git
+cd SimpleAppPlusLib
 dotnet restore
 ```
 open vs4mac
